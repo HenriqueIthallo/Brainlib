@@ -1,0 +1,149 @@
+Pergunta 1: Qual é a capital da França?
+Resposta 1: Paris.
+
+Pergunta 2: Qual é o maior planeta do sistema solar?
+Resposta 2: Júpiter.
+
+Pergunta 3: Quem foi o primeiro presidente dos Estados Unidos?
+Resposta 3: George Washington.
+
+Pergunta 4: Quanto é 2+2?
+Resposta 4: 4.
+
+Pergunta 5: Qual é a cor do céu em um dia claro?
+Resposta 5: Azul.
+
+Pergunta 6: Quem pintou a Mona Lisa?
+Resposta 6: Leonardo da Vinci.
+
+Pergunta 7: Qual é a fórmula química da água?
+Resposta 7: H2O.
+
+Pergunta 8: Qual é o oceano mais profundo do mundo?
+Resposta 8: Oceano Pacífico.
+
+Pergunta 9: Em que país está localizada a Torre Eiffel?
+Resposta 9: França.
+
+Pergunta 10: Qual é o idioma oficial do Brasil?
+Resposta 10: Português.
+
+Pergunta 11: Quem escreveu "Dom Casmurro"?
+Resposta 11: Machado de Assis.
+
+Pergunta 12: Qual é o maior país do mundo em área?
+Resposta 12: Rússia.
+
+Pergunta 13: Qual elemento tem o símbolo O?
+Resposta 13: Oxigênio.
+
+Pergunta 14: Quem desenvolveu a teoria da relatividade?
+Resposta 14: Albert Einstein.
+
+Pergunta 15: Qual é a moeda oficial do Japão?
+Resposta 15: Iene.
+
+Pergunta 16: Quem compôs a "Quinta Sinfonia"?
+Resposta 16: Ludwig van Beethoven.
+
+Pergunta 17: Qual é o maior deserto do mundo?
+Resposta 17: Deserto da Antártida.
+
+Pergunta 18: Qual bebida é feita a partir da fermentação do suco de maçã?
+Resposta 18: Sidra.
+
+Pergunta 19: Quantos continentes existem?
+Resposta 19: Sete.
+
+Pergunta 20: Qual é o animal terrestre mais rápido?
+Resposta 20: Guepardo.
+
+Pergunta 21: Em que ano o homem pisou na Lua pela primeira vez?
+Resposta 21: 1969.
+
+Pergunta 22: Qual é a capital da Alemanha?
+Resposta 22: Berlim.
+
+Pergunta 23: Quem é o autor de "O Pequeno Príncipe"?
+Resposta 23: Antoine de Saint-Exupéry.
+
+Pergunta 24: Qual planeta é conhecido como o Planeta Vermelho?
+Resposta 24: Marte.
+
+Pergunta 25: Qual instrumento mede a pressão atmosférica?
+Resposta 25: Barômetro.
+
+Pergunta 26: Qual é a velocidade da luz no vácuo?
+Resposta 26: Aproximadamente 299.792 km/s.
+
+Pergunta 27: Quem pintou "Guernica"?
+Resposta 27: Pablo Picasso.
+
+Pergunta 28: Qual é o principal gás responsável pelo efeito estufa?
+Resposta 28: Dióxido de carbono.
+
+Pergunta 29: Qual é o símbolo químico do Ouro?
+Resposta 29: Au.
+
+Pergunta 30: Em que continente fica o Egito?
+Resposta 30: África.
+
+Pergunta 31: Qual é o maior rio do mundo?
+Resposta 31: Amazonas.
+
+Pergunta 32: Qual é o planeta mais próximo do Sol?
+Resposta 32: Mercúrio.
+
+Pergunta 33: Quem escreveu "Romeu e Julieta"?
+Resposta 33: William Shakespeare.
+
+Pergunta 34: Qual é o esporte mais popular do mundo?
+Resposta 34: Futebol.
+
+Pergunta 35: Qual é o alimento básico do Japão?
+Resposta 35: Arroz.
+
+Pergunta 36: Qual é o maior mamífero terrestre?
+Resposta 36: Elefante.
+
+Pergunta 37: Qual é a capital da Itália?
+Resposta 37: Roma.
+
+Pergunta 38: Quem foi o descobridor do Brasil?
+Resposta 38: Pedro Álvares Cabral.
+
+Pergunta 39: Qual é a unidade de medida da massa?
+Resposta 39: Quilograma.
+
+Pergunta 40: Qual é o metal mais leve?
+Resposta 40: Lítio.
+
+Pergunta 41: Qual é a principal fonte de energia renovável do mundo?
+Resposta 41: Energia solar.
+
+Pergunta 42: Quem inventou o telefone?
+Resposta 42: Alexander Graham Bell.
+
+Pergunta 43: Qual é a capital da Espanha?
+Resposta 43: Madri.
+
+Pergunta 44: Qual é o maior oceano do mundo?
+Resposta 44: Oceano Pacífico.
+
+Pergunta 45: Qual é o principal ingrediente da guacamole?
+Resposta 45: Abacate.
+
+Pergunta 46: Qual país sediou a Copa do Mundo de 2014?
+Resposta 46: Brasil.
+
+Pergunta 47: Quem compôs "As Quatro Estações"?
+Resposta 47: Antonio Vivaldi.
+
+Pergunta 48: Qual é o maior lago de água doce do mundo?
+Resposta 48: Lago Superior.
+
+Pergunta 49: Qual é a capital da Austrália?
+Resposta 49: Camberra.
+
+Pergunta 50: Qual é a montanha mais alta do mundo?
+Resposta 50: Monte Everest.
