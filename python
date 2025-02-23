@@ -1,0 +1,11 @@
+from brainlib import QwenModel, LlamaModel
+
+# Utilizando o QwenModel
+qwen = QwenModel(temperature=0.8)
+response_qwen = qwen.generate_response("Olá, como vai?")
+print("Resposta Qwen:", response_qwen)
+
+# Utilizando o LlamaModel
+llama = LlamaModel(max_tokens=150)
+response_llama = llama.generate_response("O que você pode fazer?")
+print("Resposta Llama:", response_llama)

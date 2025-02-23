@@ -1,0 +1,104 @@
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BrainLib - Biblioteca para Chatbots Inspirada no Cérebro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 20px;
+      background-color: #4CAF50;
+      color: #fff;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    section {
+      margin: 20px 0;
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    pre {
+      background-color: #eee;
+      padding: 10px;
+      overflow-x: auto;
+      border-radius: 4px;
+    }
+    code {
+      background-color: #ddd;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+    .svg-animation {
+      display: block;
+      margin: 20px auto;
+      width: 150px;
+      height: 150px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BrainLib</h1>
+    <p>Biblioteca Python inspirada no funcionamento do cérebro para o treinamento de chatbots</p>
+  </header>
+  <section>
+    <h2>Introdução</h2>
+    <p>Bem-vindo à BrainLib, uma ferramenta inovadora que simula uma rede neural inspirada no cérebro humano para o treinamento de modelos de IA. Nossa arquitetura hierárquica com neurônios individuais e neurônios controladores permite a construção de modelos dinâmicos e adaptativos para chatbots.</p>
+  </section>
+  <section>
+    <h2>Documentação</h2>
+    <p>Consulte o arquivo <code>README.md</code> para instruções de instalação, configuração da rede, métodos de treinamento e exemplos práticos de uso.</p>
+  </section>
+  <section>
+    <h2>Exemplo de Uso</h2>
+    <p>Veja o exemplo abaixo de como integrar a BrainLib em um projeto de chatbot:</p>
+    <pre>
+from brainlib import NeuralNetwork, ChatbotTrainer, nlp_utils
+
+# Exemplo: considere que o tamanho do vocabulário seja 100
+vocab_size = 100  
+nn = NeuralNetwork(input_size=vocab_size, hidden_layers=[50, 30], output_size=vocab_size)
+trainer = ChatbotTrainer(nn)
+
+# Dados de conversação de exemplo
+conversations = [
+  ("Olá", "Oi, como posso ajudar?"),
+  ("Qual seu nome?", "Eu sou BrainLib, seu assistente.")
+]
+
+trainer.train(conversations, epochs=10, learning_rate=0.01)
+    </pre>
+  </section>
+  <section>
+    <h2>Visualização da Rede Neural</h2>
+    <svg class="svg-animation" viewBox="0 0 100 100">
+      <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="4" fill="none">
+        <animate attributeName="r" from="30" to="40" dur="1s" repeatCount="indefinite" />
+      </circle>
+      <line x1="50" y1="10" x2="50" y2="90" stroke="#4CAF50" stroke-width="2">
+        <animate attributeName="stroke-width" from="2" to="4" dur="1s" repeatCount="indefinite" />
+      </line>
+    </svg>
+  </section>
+  <footer>
+    <p>&copy; 2023 BrainLib. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
